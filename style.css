@@ -1,0 +1,28 @@
+.items img{
+    width:300px;
+}
+body{
+    background:url("https://graphicriver.img.customer.envatousercontent.com/files/220612006/image%20preview.jpg?auto=compress%2Cformat&q=80&fit=crop&crop=top&max-h=8000&max-w=590&s=36c3ace76bf8889fe04a10ab5fee1728");
+    background-position: center;
+    background-size: cover;
+    color: white;
+    padding-bottom: 50px;
+}
+#conslusion{
+    margin-top: 10px;
+    text-align: left;
+    background:url("https://images.unsplash.com/photo-1579546929662-711aa81148cf?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Y29sb3JmdWwlMjBiYWNrZ3JvdW5kc3xlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&w=1000&q=80");
+    color:white;
+    width: 1000px;
+    height: 150px;
+    border-radius: 10px;
+    font-size: 24px;
+}
+#footer{
+    width: 100%;
+    bottom: 0;
+    position: fixed;
+    text-align: center;
+    background-color: black ;
+    color: white;
+}
